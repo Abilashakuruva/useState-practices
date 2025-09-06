@@ -10,8 +10,8 @@ const App = () => {
     <div>
       {/*<Backgroundcolor/>*/}
       {/*<ToggleEffect/>*/}
-      {<NavTabs/>}
-      {/*<BoxModal/>*/}
+      {/*<NavTabs/>*/}
+      {<BoxModal/>}
     </div>
   )
 }
