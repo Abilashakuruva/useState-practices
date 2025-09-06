@@ -8,8 +8,8 @@ import BoxModal from './projects/BoxModal'
 const App = () => {
   return (
     <div>
-      {<Backgroundcolor/>}
-      {/*<ToggleEffect/>*/}
+      {/*<Backgroundcolor/>*/}
+      {<ToggleEffect/>}
       {/*<NavTabs/>*/}
       {/*<BoxModal/>*/}
     </div>
