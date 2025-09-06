@@ -9,8 +9,8 @@ const App = () => {
   return (
     <div>
       {/*<Backgroundcolor/>*/}
-      {<ToggleEffect/>}
-      {/*<NavTabs/>*/}
+      {/*<ToggleEffect/>*/}
+      {<NavTabs/>}
       {/*<BoxModal/>*/}
     </div>
   )
